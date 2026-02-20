@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Huiling Zhang! 👋
 
-<!--
-**Huiling-Dev/Huiling-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## Connect with me
+- [Linkedin](https://www.linkedin.com/in/huiling-z/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+#### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,swift)](https://skillicons.dev)
+
+#### Frontend Technologies
+[![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,docker)](https://skillicons.dev)
+
+#### Database & Tools
+[![Database & Tools](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+#### Other tools & Technologies
+[![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,figma,gitlab)](https://skillicons.dev)
