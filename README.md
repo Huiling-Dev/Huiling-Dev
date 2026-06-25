@@ -18,7 +18,7 @@ Welcome to my GitHub profile! 🌟
 [![Backend Technologies](https://skillicons.dev/icons?i=nodejs,docker)](https://skillicons.dev)
 
 #### Database & Tools
-[![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,prisma)](https://skillicons.dev)
 
 #### Other tools & Technologies
 [![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,figma,gitlab)](https://skillicons.dev)
